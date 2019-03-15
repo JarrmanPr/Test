@@ -1,1 +1,1 @@
-This is first file for Git + something new
+This is first file for Git

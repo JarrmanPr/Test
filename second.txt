@@ -1,1 +1,1 @@
-This is second file + + something new
+This is second file
